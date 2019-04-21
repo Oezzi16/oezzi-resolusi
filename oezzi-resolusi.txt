@@ -1,3 +1,4 @@
 Oezzi Resolusi
 - konsisten menabung
 - membuat template development basis Codeigniter
+- membuat pengumpulan daftar template admin basis bootstrap yang keren
