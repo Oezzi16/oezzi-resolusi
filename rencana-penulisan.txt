@@ -2,5 +2,7 @@
 *tambahkan materi php
 -beli hosting baru dgn unlimited bandwith
 *dapat free domain unik
+*import data mysql semua aplikasi
 -setup aplikasi di hosting
--setup struktur folder
+-setup keamanan aplikasi
+-setup struktur folder yang rapih
