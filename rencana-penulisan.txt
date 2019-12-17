@@ -6,3 +6,5 @@
 -setup aplikasi di hosting
 -setup keamanan aplikasi
 -setup struktur folder yang rapih
+-setup category artikel
+-setup chatbox website
